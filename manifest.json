@@ -1,0 +1,22 @@
+{
+  "name":"Wedding planner Tutorial",
+  "short_name":"weddding planner",
+  "start_url":"Wedding Planner.html",
+  "display":"standalone",
+  "background_color":"#5900b3",
+  "theme_color":"black",
+  "scope": ".",
+  "description":"This is a wedding planner tutorial.",
+  "icons":[
+  {
+  "src":"images/icons-192x192.png",                     
+  "sizes":"192x192",
+  "type":"image/png"
+  },
+  { 
+  "src":"images/icons-512x512.png",
+  "sizes":"512x512",
+  "type":"image/png"
+  }
+]
+}
